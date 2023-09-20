@@ -45,10 +45,15 @@ int semestre = 2;
 
 ## Solución 
 ```java
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+package com.mycompany.actividad04estudiante;
 
- package com.mycompany.actividad04estudiante;
-
-
+/**
+ *
+ * @author dayan
+ */
 public class Actividad04Estudiante {
 
     public static void main(String[] args) {
@@ -187,7 +192,6 @@ public class Actividad04Estudiante {
         }
     }
 }
-
-
+```
 
 
