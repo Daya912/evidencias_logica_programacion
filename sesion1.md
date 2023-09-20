@@ -5,7 +5,7 @@
 
 
 <!-- Mi docmuentación actividad 01 -->
-## Actividad 1: Diagnóstico de aprendizajes previos (Trabajo grupal)
+# Actividad 1: Diagnóstico de aprendizajes previos (Trabajo grupal)
 Objetivo: Desarrollar habilidades de pensamiento lógico y resolución de problemas.
 
 ## Ejercicio 1: El juego de la adivinanza
