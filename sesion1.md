@@ -37,7 +37,7 @@ El desarrollo web se puede realizar a través de diferentes lenguajes de program
 
 
 ## Logica booleana en la programación
-“lógica booleana”, en la que se indica que toda variable puede definirse en dos estados: verdadero o falso.
+“Lógica booleana”, en la que se indica que toda variable puede definirse en dos estados: verdadero o falso.
 
 ## Estructuras de control de flujo
 Son el conjunto de reglas que permiten controlar el flujo de ejecución de las instrucciones de un algoritmo o de un programa.
