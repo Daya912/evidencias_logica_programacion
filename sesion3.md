@@ -164,7 +164,7 @@ public static void main (String[] args) {
 ``` java
 import java.util.Scanner; 
 public class ejercicio 08 {
-public static void main (String [] args) {
+  public static void main (String [] args) {
     Scanner entradaDatos = new Scanner (source: System.in);
 
     System.out.printin (x: "Por favor ingresa un numero");
@@ -177,6 +177,7 @@ public static void main (String [] args) {
    }else { System.out.println (x: "el numero es positivo"); }
 
   }
+
 ```
 
 
