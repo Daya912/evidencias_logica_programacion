@@ -23,7 +23,7 @@
 8. Operador ternario: Escribe un programa que tome un número entero ingresado por el usuario y utilice el operador ternario para determinar si el número es positivo o negativo. Luego, muestra el resultado en la salida.
 
 # Solución
-1.
+1. 
 ``` java
 import java.util.Scanner;
 class Main {
@@ -88,7 +88,7 @@ public static void main (String[] args) {
      System.out.printin ("El resultado de los dos numeros dividido por el tercer numero es: " + division);
  }
 ```
-4.
+4. 
 ``` java
 import java.util.Scanner;
 public static void main (String[] args) {
@@ -126,7 +126,7 @@ public static void main (String[] args) {
     System.out.printin ("El decremento es: - resta);
  }
 ```
-6.
+6. 
 ``` java
 import java.util.Scanner;
 public class Ejercicio_06 {
@@ -160,9 +160,8 @@ public static void main (String[] args) {
 
     System.out.printin ("Resultado de ingreso a la discoteca es: " + ingresoDiscoteca);
  }
- 
-```
-8.
+ ```
+8. 
 ```java
 import java.util.Scanner; 
 public class ejercicio 08 {
