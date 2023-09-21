@@ -155,7 +155,7 @@ public static void main (String[] args) {
     System.out.println (x: "Por favor ingresa su edad");
     int edad = entradaDatos.nextInt () ;
 
-    boolean ingresoDiscoteca = ( (edad>=18) §& (estatura>=1.55) | | (mayordeEdad) ) ;
+    boolean ingresoDiscoteca = ( (edad>=18) && (estatura>=1.55) | | (mayordeEdad) ) ;
 
     System.out.printin ("Resultado de ingreso a la discoteca es: " + ingresoDiscoteca);
  }
