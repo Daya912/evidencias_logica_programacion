@@ -114,7 +114,7 @@ public static void main (String[] args) {
  }
 ```
 5. 
-```java
+``` java
 import java.util.Scanner;
 public static void main (String[] args) {
 
@@ -137,7 +137,6 @@ public class Ejercicio_06 {
     
     System.out.printin ("El resultado de la asignacion compuesta es: " + suma);
  }
-
 }
 ```
 7. 
@@ -162,7 +161,7 @@ public static void main (String[] args) {
  }
  ```
 8. 
-```java
+``` java
 import java.util.Scanner; 
 public class ejercicio 08 {
 public static void main (String [] args) {
