@@ -161,7 +161,7 @@ public static void main (String[] args) {
  }
  ```
 8. 
-``` java
+```java
 import java.util.Scanner; 
 public class ejercicio 08 {
   public static void main (String [] args) {
