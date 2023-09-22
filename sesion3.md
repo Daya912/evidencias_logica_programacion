@@ -177,7 +177,6 @@ public class ejercicio 08 {
    }else { System.out.println (x: "el numero es positivo"); }
 
   }
-
  ```
 
 
