@@ -1,10 +1,10 @@
 <!-- No borrar o modificar -->
 [Inicio](./index.md)
 
-## Sesión 6
+## Proyecto integrador
 
 
-<!-- Su documentación aquí -->
+<!-- Esta sesion sera para el proyecto integrador -->
 
 
 
