@@ -101,7 +101,7 @@ public class AppNotas {
 ```
 ## 2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 
-## Solución 
+# Solución 
 ## Array
 1.  Se crea un array de números enteros llamado "numeros" e inicializado con los valores 5, 2, 10, 7, 1.
 
