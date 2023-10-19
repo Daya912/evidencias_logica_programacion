@@ -16,7 +16,7 @@ Implementar los siguientes métodos:
 5. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las palabras en orden alfabético.
 
 ## Solución
-## 1.     
+### 1.     
 
 ```java
 package com.mycompany.actividad08;
@@ -44,7 +44,7 @@ public class MayorDe_Dos {
 }
 
 ```
-## 2.
+### 2.
 
 ```java
 package com.mycompany.actividadsesion8_2;
@@ -75,7 +75,7 @@ public class ActividadSesion8_2 {
 }
 
 ```
-## 3. 
+### 3. 
 
 ```java
 package com.mycompany.actividadsesion8_3;
@@ -115,7 +115,7 @@ public class ActividadSesion8_3 {
 
 ```
 
-## 4. 
+### 4. 
 
 ```java
 package com.mycompany.actividadsesion8_4;
@@ -141,7 +141,7 @@ public class ActividadSesion8_4 {
 
 ```
 
-## 5. 
+### 5. 
 
 ```java
 package com.mycompany.actividadsesion8_5;
