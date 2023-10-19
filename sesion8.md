@@ -45,6 +45,7 @@ public class MayorDe_Dos {
 
 ```
 2. 
+
 ```java
 package com.mycompany.actividadsesion8_2;
 
@@ -72,8 +73,10 @@ public class ActividadSesion8_2 {
     }
 
 }
+
 ```
 3. 
+
 ```java
 package com.mycompany.actividadsesion8_3;
 
@@ -109,9 +112,11 @@ public class ActividadSesion8_3 {
         System.out.println(resultado);
     }
 }
+
 ```
 
 4. 
+
 ```java
 package com.mycompany.actividadsesion8_4;
 
@@ -133,9 +138,11 @@ public class ActividadSesion8_4 {
         System.out.println("Cantdiad de palabaras escritas:\s"+resultado);
     }
 }
+
 ```
 
 5. 
+
 ```java
 package com.mycompany.actividadsesion8_5;
 
@@ -162,6 +169,7 @@ public class ActividadSesion8_5 {
 
     }
 }
+
 ```
 
 
