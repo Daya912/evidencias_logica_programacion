@@ -87,7 +87,7 @@ public class CasoIntegrador_1 {
 # Diagrama de flujo
 ![Alt text](image-1.png)
 
-# Documentación del proyecto integrador simulador caida libre de una pelota.
+# Documentación del proyecto integrador simulador caida libre de una pelota
 Este ejercicio tiene como objetivo simular la caída libre de una pelota desde una altura inicial determinada bajo la influencia de la gravedad. La idea es calcular y mostrar varios aspectos del movimiento de la pelota, incluyendo el tiempo que tarda en caer y la velocidad con la que impacta en el suelo.
 
 ```java
