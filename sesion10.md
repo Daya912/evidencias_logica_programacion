@@ -90,7 +90,7 @@ public class MRU {
 }
 ```
 
-## Explicacion del ejercicio Movimiento rectilíneo uniforme
+## Explicación del ejercicio Movimiento rectilíneo uniforme
 Para realizar realizar este ejercicio se se llevan acabo los sigientes puntos:
 
 1. la creacion de un proyecto llama MRU lo cual indica movimiento rectilineo uniforme.(public class MRU , public static void main(String[] args) )
