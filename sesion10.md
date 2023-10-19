@@ -50,7 +50,7 @@ public class CantidadLadrillos {
    }
 }
 ```
-## Explicacion del ejercicio de calcular la cantidad de materiales necesarios para construir una pared de ladrillos:
+## Explicación del ejercicio de calcular la cantidad de materiales necesarios para construir una pared de ladrillos:
 
 El ejercicio se centra en calcular la cantidad de ladrillos necesarios para construir una pared dada, teniendo en cuenta las dimensiones de la pared y los ladrillos. Aquí hay una explicación detallada: 
 1. **Entrada de Dimensiones:** El programa comienza solicitando al usuario que ingrese las dimensiones de la pared en metros: largo, alto y ancho. - Luego, solicita las dimensiones del ladrillo: largoLadrillo, altoLadrillo y anchoLadrillo. 
